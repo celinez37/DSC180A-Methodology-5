@@ -1,3 +1,6 @@
+## Github
+[Link](https://github.com/celinez37/DSC180A-Methodology-5)
+
 ## NAME & EMAIL
 Celine Zhao (cbzhao@ucsd.edu)
 
